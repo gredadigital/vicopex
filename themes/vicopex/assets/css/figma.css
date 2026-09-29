@@ -1,0 +1,30 @@
+/* Generado automáticamente desde estilos FILL de Figma por n8n. */
+:root {
+  --figma-verde-azulado: #005064;
+  --figma-verde-oliva: #3c5800;
+  --figma-verde-suave: #879060;
+  --figma-celeste: #c6e0dc;
+  --figma-negro: #161616;
+  --figma-crema: #fffbf9;
+  --figma-blanco: #ffffff;
+  --figma-bg-black: #000000;
+  --figma-text-white: #ffffff;
+  --figma-chrome-dark-active: #ffffff;
+  --figma-chrome-dark-disabled: #909192;
+  --figma-chrome-light-disabled: #6b6c6e;
+}
+
+@theme inline {
+  --color-verde-azulado: var(--figma-verde-azulado);
+  --color-verde-oliva: var(--figma-verde-oliva);
+  --color-verde-suave: var(--figma-verde-suave);
+  --color-celeste: var(--figma-celeste);
+  --color-negro: var(--figma-negro);
+  --color-crema: var(--figma-crema);
+  --color-blanco: var(--figma-blanco);
+  --color-bg-black: var(--figma-bg-black);
+  --color-text-white: var(--figma-text-white);
+  --color-chrome-dark-active: var(--figma-chrome-dark-active);
+  --color-chrome-dark-disabled: var(--figma-chrome-dark-disabled);
+  --color-chrome-light-disabled: var(--figma-chrome-light-disabled);
+}

@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import "./figma.css";
+@import "./spacing.css";
+@source "../../*.php";
+@source "../../**/*.php";
