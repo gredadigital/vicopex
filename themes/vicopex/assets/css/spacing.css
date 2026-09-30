@@ -1,8 +1,25 @@
-@theme {
-  --spacing-1: 16px;
-  --spacing-2: 21.28px;
-  --spacing-3: 28.3024px;
-  --spacing-4: 37.6422px;
-  --spacing-5: 50.0641px;
-  --spacing-6: 66.5853px;
+/* Figma spacing scale, exposed through native Tailwind 4 utilities. */
+@theme static {
+  --spacing-s9: 0.5625rem;
+  --s9: var(--spacing-s9);
+  --spacing-s12: 0.75rem;
+  --s12: var(--spacing-s12);
+  --spacing-s16: 1rem;
+  --s16: var(--spacing-s16);
+  --spacing-s21: 1.3125rem;
+  --s21: var(--spacing-s21);
+  --spacing-s28: 1.75rem;
+  --s28: var(--spacing-s28);
+  --spacing-s38: 2.375rem;
+  --s38: var(--spacing-s38);
+  --spacing-s51: 3.1875rem;
+  --s51: var(--spacing-s51);
+  --spacing-s68: 4.25rem;
+  --s68: var(--spacing-s68);
+  --spacing-s90: 5.625rem;
+  --s90: var(--spacing-s90);
+  --spacing-s120: 7.5rem;
+  --s120: var(--spacing-s120);
+  --spacing-s160: 10rem;
+  --s160: var(--spacing-s160);
 }

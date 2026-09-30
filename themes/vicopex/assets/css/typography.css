@@ -1,0 +1,292 @@
+/* VICOPEX — estilos TEXT de Figma. Fuente: docs/figma-typography.json.
+ * Mantener los nombres originales; el valor real prevalece sobre el nombre.
+ * Daguin y Bahnschrift: WOFF2 locales declarados en fonts.css.
+ */
+@theme static {
+  --font-display: "Daguin", serif;
+  --font-body: "Bahnschrift", sans-serif;
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-display);
+  --font-width-body: 87.5%;
+  --font-width-display: 100%;
+
+  /* Figma p-16 — 57f9fbf8a5416fd3384e13b3105aee92e6aa1141 */
+  --text-p-16: 1rem;
+  --text-p-16--line-height: 1.2;
+  --text-p-16--letter-spacing: 0em;
+  --text-p-16--font-weight: 300;
+  --figma-p-16-paragraph-spacing: 1rem;
+
+  /* Figma lead-18 — 032d86d3e394739df647d454363411e8d753b033 */
+  --text-lead-18: 1.125rem;
+  --text-lead-18--line-height: 1;
+  --text-lead-18--letter-spacing: 0em;
+  --text-lead-18--font-weight: 300;
+  --figma-lead-18-paragraph-spacing: 0rem;
+
+  /* Figma h1-51 — 2d663bfb975638adf6647697bb294de52591ddea */
+  --text-h1-51: 3.1875rem;
+  --text-h1-51--line-height: normal;
+  --text-h1-51--letter-spacing: 0em;
+  --text-h1-51--font-weight: 700;
+  --figma-h1-51-paragraph-spacing: 0rem;
+
+  /* Figma h1d-51 — 127b4fe715b18064cd4147bf87930e4d64f4cd20 */
+  --text-h1d-51: 2.75rem;
+  --text-h1d-51--line-height: 1.1;
+  --text-h1d-51--letter-spacing: 0.02em;
+  --text-h1d-51--font-weight: 400;
+  --figma-h1d-51-paragraph-spacing: 0rem;
+
+  /* Figma h2-38 — 68ad1eac0c4151616c1c59e4d1493b174dfe46da */
+  --text-h2-38: 2.25rem;
+  --text-h2-38--line-height: 1.1;
+  --text-h2-38--letter-spacing: 0em;
+  --text-h2-38--font-weight: 700;
+  --figma-h2-38-paragraph-spacing: 0rem;
+
+  /* Figma h2d-38 — 148f4e7e6004403137ee395c7fe67a8f3dcf364a */
+  --text-h2d-38: 2.375rem;
+  --text-h2d-38--line-height: 1.1;
+  --text-h2d-38--letter-spacing: 0.02em;
+  --text-h2d-38--font-weight: 400;
+  --figma-h2d-38-paragraph-spacing: 0rem;
+
+  /* Figma h3-28 — 05f8a55e0499972fe8563ef2d4c44c6d49dd079b */
+  --text-h3-28: 1.75rem;
+  --text-h3-28--line-height: 1.1;
+  --text-h3-28--letter-spacing: 0em;
+  --text-h3-28--font-weight: 700;
+  --figma-h3-28-paragraph-spacing: 0rem;
+
+  /* Figma h3d-26 — f6a88068b9d108acd9070d1f08594f668ac6e577 */
+  --text-h3d-26: 1.625rem;
+  --text-h3d-26--line-height: 1.1;
+  --text-h3d-26--letter-spacing: 0.02em;
+  --text-h3d-26--font-weight: 400;
+  --figma-h3d-26-paragraph-spacing: 0rem;
+
+  /* Figma h4-21 — 8e45e34063ff6cf710e71d55c141a75615f4964d */
+  --text-h4-21: 1.3125rem;
+  --text-h4-21--line-height: 1.1;
+  --text-h4-21--letter-spacing: 0em;
+  --text-h4-21--font-weight: 700;
+  --figma-h4-21-paragraph-spacing: 0rem;
+
+  /* Figma sm-13.5 — 05e0a52ee354f809d6dc8c03c83e66b94483c78f */
+  --text-sm-13-5: 0.84375rem;
+  --text-sm-13-5--line-height: 1.1;
+  --text-sm-13-5--letter-spacing: 0em;
+  --text-sm-13-5--font-weight: 400;
+  --figma-sm-13-5-paragraph-spacing: 0rem;
+
+  /* Figma xsm-11 — 9f401afc911eb12552200b051cc34b8807b2f6d5 */
+  --text-xsm-11: 0.6875rem;
+  --text-xsm-11--line-height: 1.1;
+  --text-xsm-11--letter-spacing: 0em;
+  --text-xsm-11--font-weight: 400;
+  --figma-xsm-11-paragraph-spacing: 0rem;
+
+  /* Figma xxsm-7 — 61e2fdc3e2b34546ac6910821e8e8e82772c0158 */
+  --text-xxsm-7: 0.4375rem;
+  --text-xxsm-7--line-height: normal;
+  --text-xxsm-7--letter-spacing: 0em;
+  --text-xxsm-7--font-weight: 400;
+  --figma-xxsm-7-paragraph-spacing: 0rem;
+
+  /* Figma pbold-16 — b34e1ec32552ba85d710830fa822941ab373c4f0 */
+  --text-pbold-16: 1rem;
+  --text-pbold-16--line-height: 1.2;
+  --text-pbold-16--letter-spacing: 0em;
+  --text-pbold-16--font-weight: 700;
+  --figma-pbold-16-paragraph-spacing: 0rem;
+
+  /* Figma lead-18-bold — f97074c6c4c4f33d10503ae5c8ddf7053e84e921 */
+  --text-lead-18-bold: 1.125rem;
+  --text-lead-18-bold--line-height: 1;
+  --text-lead-18-bold--letter-spacing: 0em;
+  --text-lead-18-bold--font-weight: 700;
+  --figma-lead-18-bold-paragraph-spacing: 0rem;
+}
+
+/* type-p-16: estilo completo; text-p-16: tamaño/interlínea/peso/tracking. */
+@utility type-p-16 {
+  font-family: var(--font-body);
+  font-size: var(--text-p-16);
+  font-weight: var(--text-p-16--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-p-16--line-height);
+  letter-spacing: var(--text-p-16--letter-spacing);
+  text-transform: none;
+  & > p + p { margin-block-start: var(--figma-p-16-paragraph-spacing); }
+}
+
+/* type-lead-18: estilo completo; text-lead-18: tamaño/interlínea/peso/tracking. */
+@utility type-lead-18 {
+  font-family: var(--font-body);
+  font-size: var(--text-lead-18);
+  font-weight: var(--text-lead-18--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-lead-18--line-height);
+  letter-spacing: var(--text-lead-18--letter-spacing);
+  text-transform: none;
+}
+
+/* type-h1-51: estilo completo; text-h1-51: tamaño/interlínea/peso/tracking. */
+@utility type-h1-51 {
+  font-family: var(--font-body);
+  font-size: var(--text-h1-51);
+  font-weight: var(--text-h1-51--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-h1-51--line-height);
+  letter-spacing: var(--text-h1-51--letter-spacing);
+  text-transform: none;
+}
+
+/* type-h1d-51: estilo completo; text-h1d-51: tamaño/interlínea/peso/tracking. */
+@utility type-h1d-51 {
+  font-family: var(--font-display);
+  font-size: var(--text-h1d-51);
+  font-weight: var(--text-h1d-51--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-display);
+  line-height: var(--text-h1d-51--line-height);
+  letter-spacing: var(--text-h1d-51--letter-spacing);
+  text-transform: uppercase;
+}
+
+/* type-h2-38: estilo completo; text-h2-38: tamaño/interlínea/peso/tracking. */
+@utility type-h2-38 {
+  font-family: var(--font-body);
+  font-size: var(--text-h2-38);
+  font-weight: var(--text-h2-38--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-h2-38--line-height);
+  letter-spacing: var(--text-h2-38--letter-spacing);
+  text-transform: none;
+}
+
+/* type-h2d-38: estilo completo; text-h2d-38: tamaño/interlínea/peso/tracking. */
+@utility type-h2d-38 {
+  font-family: var(--font-display);
+  font-size: var(--text-h2d-38);
+  font-weight: var(--text-h2d-38--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-display);
+  line-height: var(--text-h2d-38--line-height);
+  letter-spacing: var(--text-h2d-38--letter-spacing);
+  text-transform: uppercase;
+}
+
+/* type-h3-28: estilo completo; text-h3-28: tamaño/interlínea/peso/tracking. */
+@utility type-h3-28 {
+  font-family: var(--font-body);
+  font-size: var(--text-h3-28);
+  font-weight: var(--text-h3-28--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-h3-28--line-height);
+  letter-spacing: var(--text-h3-28--letter-spacing);
+  text-transform: none;
+}
+
+/* type-h3d-26: estilo completo; text-h3d-26: tamaño/interlínea/peso/tracking. */
+@utility type-h3d-26 {
+  font-family: var(--font-display);
+  font-size: var(--text-h3d-26);
+  font-weight: var(--text-h3d-26--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-display);
+  line-height: var(--text-h3d-26--line-height);
+  letter-spacing: var(--text-h3d-26--letter-spacing);
+  text-transform: uppercase;
+}
+
+/* type-h4-21: estilo completo; text-h4-21: tamaño/interlínea/peso/tracking. */
+@utility type-h4-21 {
+  font-family: var(--font-body);
+  font-size: var(--text-h4-21);
+  font-weight: var(--text-h4-21--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-h4-21--line-height);
+  letter-spacing: var(--text-h4-21--letter-spacing);
+  text-transform: none;
+}
+
+/* type-sm-13-5: estilo completo; text-sm-13-5: tamaño/interlínea/peso/tracking. */
+@utility type-sm-13-5 {
+  font-family: var(--font-body);
+  font-size: var(--text-sm-13-5);
+  font-weight: var(--text-sm-13-5--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-sm-13-5--line-height);
+  letter-spacing: var(--text-sm-13-5--letter-spacing);
+  text-transform: none;
+}
+
+/* type-xsm-11: estilo completo; text-xsm-11: tamaño/interlínea/peso/tracking. */
+@utility type-xsm-11 {
+  font-family: var(--font-body);
+  font-size: var(--text-xsm-11);
+  font-weight: var(--text-xsm-11--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-xsm-11--line-height);
+  letter-spacing: var(--text-xsm-11--letter-spacing);
+  text-transform: none;
+}
+
+/* type-xxsm-7: estilo completo; text-xxsm-7: tamaño/interlínea/peso/tracking. */
+@utility type-xxsm-7 {
+  font-family: var(--font-body);
+  font-size: var(--text-xxsm-7);
+  font-weight: var(--text-xxsm-7--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-xxsm-7--line-height);
+  letter-spacing: var(--text-xxsm-7--letter-spacing);
+  text-transform: none;
+}
+
+/* type-pbold-16: estilo completo; text-pbold-16: tamaño/interlínea/peso/tracking. */
+@utility type-pbold-16 {
+  font-family: var(--font-body);
+  font-size: var(--text-pbold-16);
+  font-weight: var(--text-pbold-16--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-pbold-16--line-height);
+  letter-spacing: var(--text-pbold-16--letter-spacing);
+  text-transform: none;
+}
+
+/* type-lead-18-bold: estilo completo; text-lead-18-bold: tamaño/interlínea/peso/tracking. */
+@utility type-lead-18-bold {
+  font-family: var(--font-body);
+  font-size: var(--text-lead-18-bold);
+  font-weight: var(--text-lead-18-bold--font-weight);
+  font-style: normal;
+  font-stretch: var(--font-width-body);
+  line-height: var(--text-lead-18-bold--line-height);
+  letter-spacing: var(--text-lead-18-bold--letter-spacing);
+  text-transform: none;
+}
+
+/* El cuerpo usa el estilo editorial base; los títulos eligen su token en el template. */
+@layer base {
+  body { @apply type-p-16; }
+}
+
+/* API pública disponible aunque todavía no exista contenido en las páginas. */
+@source inline("type-p-16 type-lead-18 type-h1-51 type-h1d-51 type-h2-38 type-h2d-38 type-h3-28 type-h3d-26 type-h4-21 type-sm-13-5 type-xsm-11 type-xxsm-7 type-pbold-16 type-lead-18-bold text-p-16 text-lead-18 text-h1-51 text-h1d-51 text-h2-38 text-h2d-38 text-h3-28 text-h3d-26 text-h4-21 text-sm-13-5 text-xsm-11 text-xxsm-7 text-pbold-16 text-lead-18-bold font-body font-display md:type-h1d-51");
+
+/* Use the same family in Tailwind Preflight. */
+@theme inline {
+  --default-font-family: var(--font-body);
+}

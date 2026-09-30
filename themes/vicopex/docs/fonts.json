@@ -1,0 +1,49 @@
+{
+  "sourceFileBytes": 4899844,
+  "fonts": [
+    {
+      "file": "daguin-regular-400.woff2",
+      "family": "Daguin",
+      "style": "Regular",
+      "weight": 400,
+      "widthPercent": 100,
+      "bytes": 15176,
+      "characters": 212,
+      "source": "Daguin Regular.ttf",
+      "sourceSha256": "8d154ecaa58010b080961cb1f2dd742cb0c848872a5e67d146a7dccb977be242"
+    },
+    {
+      "file": "bahnschrift-semicondensed-light-300.woff2",
+      "family": "Bahnschrift",
+      "style": "Light SemiCondensed",
+      "weight": 300,
+      "widthPercent": 87.5,
+      "bytes": 46812,
+      "characters": 803,
+      "source": "BAHNSCHRIFT.TTF",
+      "sourceSha256": "f46e2e6fea25d84580a30d45177fd6a03bba296a50812f5494e6ff1500465493"
+    },
+    {
+      "file": "bahnschrift-semicondensed-regular-400.woff2",
+      "family": "Bahnschrift",
+      "style": "SemiCondensed",
+      "weight": 400,
+      "widthPercent": 87.5,
+      "bytes": 46836,
+      "characters": 803,
+      "source": "BAHNSCHRIFT.TTF",
+      "sourceSha256": "f46e2e6fea25d84580a30d45177fd6a03bba296a50812f5494e6ff1500465493"
+    },
+    {
+      "file": "bahnschrift-semicondensed-bold-700.woff2",
+      "family": "Bahnschrift",
+      "style": "Bold SemiCondensed",
+      "weight": 700,
+      "widthPercent": 87.5,
+      "bytes": 47536,
+      "characters": 803,
+      "source": "BAHNSCHRIFT.TTF",
+      "sourceSha256": "f46e2e6fea25d84580a30d45177fd6a03bba296a50812f5494e6ff1500465493"
+    }
+  ]
+}

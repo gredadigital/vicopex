@@ -1,0 +1,285 @@
+{
+  "fileKey": "y1VOKjdHPFAurHaadl9Yqp",
+  "pageId": "28:69",
+  "extractedAt": "2026-09-30",
+  "styles": [
+    {
+      "id": "S:57f9fbf8a5416fd3384e13b3105aee92e6aa1141,",
+      "key": "57f9fbf8a5416fd3384e13b3105aee92e6aa1141",
+      "name": "p-16",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Light SemiCondensed"
+      },
+      "fontSize": 16,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 120.00000476837158
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 16
+    },
+    {
+      "id": "S:032d86d3e394739df647d454363411e8d753b033,",
+      "key": "032d86d3e394739df647d454363411e8d753b033",
+      "name": "lead-18",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Light SemiCondensed"
+      },
+      "fontSize": 18,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 100
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:2d663bfb975638adf6647697bb294de52591ddea,",
+      "key": "2d663bfb975638adf6647697bb294de52591ddea",
+      "name": "h1-51",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 51,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:127b4fe715b18064cd4147bf87930e4d64f4cd20,",
+      "key": "127b4fe715b18064cd4147bf87930e4d64f4cd20",
+      "name": "h1d-51",
+      "fontName": {
+        "family": "Daguin",
+        "style": "Regular"
+      },
+      "fontSize": 44,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 2
+      },
+      "textCase": "UPPER",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:68ad1eac0c4151616c1c59e4d1493b174dfe46da,",
+      "key": "68ad1eac0c4151616c1c59e4d1493b174dfe46da",
+      "name": "h2-38",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 36,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:148f4e7e6004403137ee395c7fe67a8f3dcf364a,",
+      "key": "148f4e7e6004403137ee395c7fe67a8f3dcf364a",
+      "name": "h2d-38",
+      "fontName": {
+        "family": "Daguin",
+        "style": "Regular"
+      },
+      "fontSize": 38,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 2
+      },
+      "textCase": "UPPER",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:05f8a55e0499972fe8563ef2d4c44c6d49dd079b,",
+      "key": "05f8a55e0499972fe8563ef2d4c44c6d49dd079b",
+      "name": "h3-28",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 28,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:f6a88068b9d108acd9070d1f08594f668ac6e577,",
+      "key": "f6a88068b9d108acd9070d1f08594f668ac6e577",
+      "name": "h3d-26",
+      "fontName": {
+        "family": "Daguin",
+        "style": "Regular"
+      },
+      "fontSize": 26,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 2
+      },
+      "textCase": "UPPER",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:8e45e34063ff6cf710e71d55c141a75615f4964d,",
+      "key": "8e45e34063ff6cf710e71d55c141a75615f4964d",
+      "name": "h4-21",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 21,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:05e0a52ee354f809d6dc8c03c83e66b94483c78f,",
+      "key": "05e0a52ee354f809d6dc8c03c83e66b94483c78f",
+      "name": "sm-13.5",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "SemiCondensed"
+      },
+      "fontSize": 13.5,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:9f401afc911eb12552200b051cc34b8807b2f6d5,",
+      "key": "9f401afc911eb12552200b051cc34b8807b2f6d5",
+      "name": "xsm-11",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "SemiCondensed"
+      },
+      "fontSize": 11,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 110.00000238418579
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:61e2fdc3e2b34546ac6910821e8e8e82772c0158,",
+      "key": "61e2fdc3e2b34546ac6910821e8e8e82772c0158",
+      "name": "xxsm-7",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "SemiCondensed"
+      },
+      "fontSize": 7,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:b34e1ec32552ba85d710830fa822941ab373c4f0,",
+      "key": "b34e1ec32552ba85d710830fa822941ab373c4f0",
+      "name": "pbold-16",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 16,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 120.00000476837158
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "S:f97074c6c4c4f33d10503ae5c8ddf7053e84e921,",
+      "key": "f97074c6c4c4f33d10503ae5c8ddf7053e84e921",
+      "name": "lead-18-bold",
+      "fontName": {
+        "family": "Bahnschrift",
+        "style": "Bold SemiCondensed"
+      },
+      "fontSize": 18,
+      "lineHeight": {
+        "unit": "PERCENT",
+        "value": 100
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL",
+      "paragraphSpacing": 0
+    }
+  ]
+}

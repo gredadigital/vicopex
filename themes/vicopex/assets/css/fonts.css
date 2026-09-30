@@ -1,0 +1,36 @@
+/* Local webfonts matching Figma. See docs/fonts.json. */
+@font-face {
+  font-family: "Daguin";
+  src: url("../fonts/daguin-regular-400.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("../fonts/bahnschrift-semicondensed-light-300.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 87.5%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("../fonts/bahnschrift-semicondensed-regular-400.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 87.5%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("../fonts/bahnschrift-semicondensed-bold-700.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 87.5%;
+  font-display: swap;
+}
